@@ -1,0 +1,7 @@
+streamlit>=1.45,<2
+anthropic>=0.40,<1
+pymongo[srv]>=4.6,<5
+python-dotenv>=1,<2
+requests>=2.32,<3
+beautifulsoup4>=4.12,<5
+certifi
